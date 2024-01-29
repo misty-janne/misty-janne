@@ -46,4 +46,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br />
 </div>
-
+<div align=center><h3>📖 Study 📖</h3></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=ReactNative&logoColor=black">
+</div>
